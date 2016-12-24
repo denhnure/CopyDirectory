@@ -1,0 +1,5 @@
+CopyDirectory/bin/
+CopyDirectory/obj/
+CopyDirectory.Core/obj/
+CopyDirectory.Core/bin/
+.vs/
